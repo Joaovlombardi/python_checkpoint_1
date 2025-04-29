@@ -1,6 +1,7 @@
 # Sistema de Cadastro de Alunos - Explicação do Código
 
 Grupo: João Vitor - Thomas Sievers - José Otávio - Patrick - João Pedro Menezes
+
 Este programa em Python permite cadastrar alunos, listar os cadastrados e visualizar estatísticas como média de idade, maior média de notas e total de aprovados.
 
 ## Estrutura de Dados
