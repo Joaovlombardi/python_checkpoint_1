@@ -1,7 +1,7 @@
 # python_checkpoint_1
 Checkpoint 1 - COMPUTATIONAL THINKING WITH PYTHON
+Grupo: João Vitor - José Otávio - Thomas Sievers - Patrick - João Pedro Menezes
 
-Grupo: João Vitor - José Otávio - Thomas Sievers - Patrick - João Pedro Menezes 
 
 📚 Sistema de Cadastro de Alunos
 Programa simples em Python para cadastro, listagem e análise de informações de alunos.
